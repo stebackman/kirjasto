@@ -1,0 +1,4 @@
+	•	Phonebook.js: Manages state for the phonebook (list of persons, search term) and passes relevant state/handlers down to child components.
+	•	AddPersonHandler.js: Handles the logic for adding new persons, including managing the name and number inputs.
+	•	PersonForm.js: Form component for capturing new person details.
+	•	Persons.js: Displays the list of persons filtered by the search term.

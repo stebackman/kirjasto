@@ -1,0 +1,11 @@
+.deleteButton {
+  color: red;
+}
+.reservedButton {
+  margin: 3px;
+  color: blue;
+}
+.reserveButton {
+  margin: 3px;
+  color: green;
+}

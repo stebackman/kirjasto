@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "title": "Tuntematon Kimi Räikkönen",
+      "author": "Kari Hotakainen",
+      "id": "1",
+      "varattu": true
+    },
+    {
+      "title": "Miehet jotka vihaavat naisia",
+      "author": "Stieg Larsson",
+      "id": "2",
+      "varattu": false
+    },
+    {
+      "title": "Tyttö joka leikki tulella",
+      "author": "Stieg Larsson",
+      "id": "3",
+      "varattu": false
+    },
+    {
+      "title": "Pilvilinna joka romahti",
+      "author": "Stieg Larsson",
+      "id": "4",
+      "varattu": false
+    },
+    {
+      "title": "Iloisia aikoja,mielensäpahoittaja",
+      "author": "Tuomas Kyrö",
+      "id": "5",
+      "varattu": false
+    },
+    {
+      "title": "Alex Ferguson- omaelämäkerta",
+      "author": "Alex Ferguson",
+      "id": "6",
+      "varattu": false
+    }
+  ]
+}
